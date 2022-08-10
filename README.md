@@ -3,6 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinifvasquez)
 
 ![vinifvasquez GitHub stats](https://github-readme-stats.vercel.app/api?username=vinifvasquez&show_icons=true&theme=dracula&count_private=true)
+<img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifvasquez&layout=compact&langs_count=7&theme=yeblu"/>
+
 
 
 ## Tecnologias que eu uso no meu dia
@@ -14,4 +16,7 @@
  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=dracula"/>
+
+
+
