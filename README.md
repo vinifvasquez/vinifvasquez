@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Vinicius Felipe Vasquez 🖐️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?<a href="https://github.com/TheVarella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinifvasquez&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifvasquez&layout=compact&langs_count=7&theme=aura"/>
 
 
 <div align="center">
