@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Vinicius Felipe Vasquez 🖐️
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:9796f0,100:fbc7d4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Vasquez;I'm+17+years+old;I´m+from+Brazil;Be+welcome+to+my+Github+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
@@ -29,6 +27,4 @@
   <a href="https://www.linkedin.com/in/matheus-schiav%C3%A3o-arantes-25206a227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ![snake gif](https://github.com/vinifvasquez/vinifvasquez/blob/output/github-contribution-grid-snake.svg)
 </div>
-    <br>
-   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=120&section=footer"/>
+    
